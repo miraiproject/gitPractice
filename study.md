@@ -2,8 +2,5 @@
 同じペースのスクール生同士でペアを作る。
 参考になる参考書やwebサイトを共有できるようにする。
 
-<<<<<<< HEAD
 定期的に勉強会を開く
-=======
 asmoamfdkwafoadwmfamwfmawofmwo
->>>>>>> asdfa
